@@ -38,4 +38,4 @@ print(result)
 
 
 # TC = O(n log n)
-# SP = O(1)
+# SC = O(1)

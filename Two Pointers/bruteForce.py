@@ -35,4 +35,4 @@ print(checkPair(A,size,x))
 
 
 # TC = O(n**2)
-# SP = O(1)
+# SC = O(1)
